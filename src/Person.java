@@ -1,9 +1,9 @@
 /**
- * @author PUT YOUR NAME HERE
- * @date WHEN DID YOU FINISH THIS
+ * @author PUT YOUR NAME HERE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ * @date January 8, 2020
  *
  * Class in the first assignment for Compsci 201
- * in Fall 2019
+ * in Spring 2020
  */
 
 public class Person {
@@ -37,7 +37,7 @@ public class Person {
 	 */
 	public String getName() {
 		// TODO: complete this method
-		return "ola";
+		return "rodger";
 	}
 	
 	/**
