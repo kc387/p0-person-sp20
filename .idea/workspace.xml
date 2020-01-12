@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f0ee32c-fc35-4bcd-9071-6f37e900e826" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/p0-fall19/ManyPeopleDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/p0-fall19/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/p0-fall19/PersonDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p0-fall19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p0-spring20.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
@@ -47,14 +52,14 @@
   <component name="RunManager" selected="Application.ManyPeopleDriver">
     <configuration name="ManyPeopleDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ManyPeopleDriver" />
-      <module name="p0-fall19" />
+      <module name="p0-spring20" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PersonDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PersonDriver" />
-      <module name="p0-fall19" />
+      <module name="p0-spring20" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -84,7 +89,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
