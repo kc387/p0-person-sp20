@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f0ee32c-fc35-4bcd-9071-6f37e900e826" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/p0-spring20/ManyPeopleDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/p0-spring20/ManyPeopleDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/p0-spring20/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/p0-spring20/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/p0-spring20/PersonDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/p0-spring20/PersonDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ManyPeopleDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManyPeopleDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PersonDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +82,14 @@
       <option name="presentableId" value="Default" />
       <updated>1566574816534</updated>
     </task>
+    <task id="LOCAL-00001" summary="P0 Commit">
+      <created>1579184527062</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579184527062</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,30 +105,43 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="P0 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="P0 Commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="198" key="GridCell.Tab.0.bottom" timestamp="1579149512516">
+    <state x="373" y="51" key="CommitChangelistDialog2" timestamp="1579184526847">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1358" height="198" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1579149512516" />
-    <state width="1358" height="198" key="GridCell.Tab.0.center" timestamp="1579149512505">
+    <state x="373" y="51" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1579184526847" />
+    <state width="1358" height="198" key="GridCell.Tab.0.bottom" timestamp="1579184540660">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1358" height="198" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1579149512505" />
-    <state width="1358" height="198" key="GridCell.Tab.0.left" timestamp="1579149512499">
+    <state width="1358" height="198" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1579184540660" />
+    <state width="1358" height="198" key="GridCell.Tab.0.center" timestamp="1579184540659">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1358" height="198" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1579149512499" />
-    <state width="1358" height="198" key="GridCell.Tab.0.right" timestamp="1579149512508">
+    <state width="1358" height="198" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1579184540659" />
+    <state width="1358" height="198" key="GridCell.Tab.0.left" timestamp="1579184540658">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1358" height="198" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1579149512508" />
+    <state width="1358" height="198" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1579184540658" />
+    <state width="1358" height="198" key="GridCell.Tab.0.right" timestamp="1579184540659">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="198" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1579184540659" />
     <state x="228" y="23" key="SettingsEditor" timestamp="1579122229893">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="228" y="23" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1579122229893" />
-    <state x="529" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579184450958">
+    <state x="340" y="212" key="Vcs.Push.Dialog.v2" timestamp="1579184534850">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
+    <state x="340" y="212" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1579184534850" />
+    <state x="529" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579185643497">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="529" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.822@0.23.1440.822" timestamp="1579185643497" />
     <state x="529" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.823@0.23.1440.823" timestamp="1579184450958" />
   </component>
 </project>
