@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f0ee32c-fc35-4bcd-9071-6f37e900e826" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/p0-fall19/ManyPeopleDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/p0-fall19/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/p0-fall19/PersonDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p0-fall19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p0-spring20.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/p0-spring20/ManyPeopleDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/p0-spring20/ManyPeopleDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/p0-spring20/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/p0-spring20/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/p0-spring20/PersonDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/p0-spring20/PersonDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ManyPeopleDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManyPeopleDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PersonDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonDriver.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,26 +29,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1WAfnWZphomWTHvtzo60rWSAtAQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.ManyPeopleDriver">
     <configuration name="ManyPeopleDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -57,7 +53,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PersonDriver" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PersonDriver" />
       <module name="p0-spring20" />
       <method v="2">
@@ -67,9 +63,20 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ManyPeopleDriver" />
-        <item itemvalue="Application.PersonDriver" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -96,5 +103,31 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="198" key="GridCell.Tab.0.bottom" timestamp="1579149512516">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="198" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1579149512516" />
+    <state width="1358" height="198" key="GridCell.Tab.0.center" timestamp="1579149512505">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="198" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1579149512505" />
+    <state width="1358" height="198" key="GridCell.Tab.0.left" timestamp="1579149512499">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="198" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1579149512499" />
+    <state width="1358" height="198" key="GridCell.Tab.0.right" timestamp="1579149512508">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="198" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1579149512508" />
+    <state x="228" y="23" key="SettingsEditor" timestamp="1579122229893">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="228" y="23" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1579122229893" />
+    <state x="529" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579184450958">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="529" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.823@0.23.1440.823" timestamp="1579184450958" />
   </component>
 </project>

@@ -1,5 +1,5 @@
 /**
- * @author PUT YOUR NAME HERE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ * @author Kathleen Chen
  * @date January 9, 2020
  *
  * Class in the first assignment for Compsci 201
@@ -20,6 +20,7 @@ public class Person {
 	public Person(String name, int age) {
 		// TODO: complete constructor
 		myName = name;
+		myAge = age;
 	} 
 	
 	/**
@@ -37,7 +38,7 @@ public class Person {
 	 */
 	public String getName() {
 		// TODO: complete this method
-		return "rodger";
+		return myName;
 	}
 	
 	/**
